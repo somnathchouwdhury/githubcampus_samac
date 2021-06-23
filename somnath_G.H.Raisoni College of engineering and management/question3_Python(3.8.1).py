@@ -12,4 +12,4 @@ for i in range(t):
     r,c=map(int,input().split())
     res+=r*c
     
-print(res)
+print(res%1000000007)
