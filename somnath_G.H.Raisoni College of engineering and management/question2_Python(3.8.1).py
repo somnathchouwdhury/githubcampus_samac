@@ -8,6 +8,7 @@ Created on Wed Jun 23 17:20:34 2021
 
 def main():
     n=int(input())
+    
     g1,g2=[],[]
     count=0
     
