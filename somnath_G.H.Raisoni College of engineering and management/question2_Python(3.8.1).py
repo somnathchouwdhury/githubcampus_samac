@@ -6,6 +6,7 @@ Created on Wed Jun 23 17:20:34 2021
 @author: samac
 """
 
+
 def main():
     n=int(input())
     
